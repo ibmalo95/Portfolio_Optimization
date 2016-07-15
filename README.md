@@ -1,7 +1,7 @@
 ## Website Performance Optimization portfolio project
 
 How to run:
-  Go to http://ibmalo95.github.io/frontend-nanodegree-mobile-portfolio/.
+  Go to http://ibmalo95.github.io/Portfolio_Optimization/.
 
 Optimizations index.html:
   1. inline css/js
@@ -10,7 +10,6 @@ Optimizations index.html:
   4. reduced pizzeria.jpg size
   5. Minify
   6. Compress
-  7. Cache
 
 Optimizations views/js/main.js:
   1. Removed code from loops that was unchanging
